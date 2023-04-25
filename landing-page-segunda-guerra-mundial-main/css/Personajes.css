@@ -1,0 +1,7 @@
+.photos-container .fotos {
+    display: flex;
+    background-color: #300a0a;
+    display: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}

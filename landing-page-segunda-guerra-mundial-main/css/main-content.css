@@ -1,0 +1,24 @@
+.main content {
+    display: flex ;
+    flex-wrap: wrap;
+}
+.section-description {
+    display: flex ; 
+    margin-top: 50px;
+}
+.section-tittle {
+    font-size: 70px ;
+    margin-right: 15px ;
+}
+.section-tittle h1.tittle {
+    border-right: 4px solid var(--black) ;
+    width: 500px;
+}
+.section-paragraph { 
+    display: flex;
+    height: 447px;
+    width: 635px;
+    justify-content: center;
+    flex-direction: column;
+
+}
